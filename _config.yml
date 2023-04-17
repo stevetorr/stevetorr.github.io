@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Steven B. Torrisi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Berkeley, CA"
-  employer         : "Toyota Research Institute"
+  bio              : "Currently a Research Scientist at Toyota Research Institute."
+  location         : "Bay Area, CA"
+  employer         : #"Toyota Research Institute"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
