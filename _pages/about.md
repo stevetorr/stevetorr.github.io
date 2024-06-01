@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Steven B. Torrisi: Computational Physicist & Materials Scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a researcher in computational materials science interested in the intersection of machine learning with traditional simulation techniques.
+My recent work has spanned computational materials discovery, machine learning applied to first principles simulation, and battery informatics.
 
-A data-driven personal website
+I currently work as a research scientist at Toyota Research Institute. You can view  some of the papers that I've written on my [Google Scholar.](https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ)
+
+Prior to that, I was a DOE Computational Science Graduate Fellow, and a Barry Goldwater scholar. I obtained my Ph.D. in Physics with a secondary in computational science & engineering from Harvard University, and B.S. in Physics and a B.A. in Mathematics from the University of Rochester.
+
+
+On The Horizon
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- April 24: I will be giving two invited talks at MRS 2024 in Seattle, WA!
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+News!
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+- December 23:
+  - I presented at the Advanced Automotive Battery Conference in San Diego, CA!
+  - My collaboration with Eli Gerber and Eun-ah Kim of Cornell University developing a tool called InterMatch is live now in [Nature Communications!](https://rdcu.be/duGgo)
+  - Work by Bianca Baldasarri from the group of Chris Wolverton on a database and feature development for Oxygen Vacancy formation energy prediction is now live on [Chemistry of Materials](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.3c02251)!
+- September 23: 
+    - Look for a work by Mehrad Ansari, intern Summer '22, on machine learning for short-term battery agnostic degradation prediction.
+- Aug 23:
+    - August 23: I gave a lecture on the representation of materials at the SUNCAT summer school at Stanford University. It was an honor to present along other distinguished speakers and to have a chance to reach an audience of more early-career scientists!
+- June 23:
+    - I gave a talk at Argonne National Labs in their Machine Learning & Science seminar series!
+    - I spoke at the Telluride Summer Science Conference in Colorado at their Machine Learning in Chemistry & Materials Science conference.
+
+- May 23: 
+  - I will be hosting Viktoriia Baibakova (UC Berkeley) and Felix Jimenez (Texas A&M) as an intern mentor this summer at TRI!
+  - A perspective paper I wrote with Shijing Sun (of TRI) and with many members of our consortium is now live on Applied Physics Letters- Machine Learning!
+  - This website is started. Thanks for visiting!
+
+
+
+Older News
+========
+Nothing yet.
+
+My interests
+------
+
+
 
 Site-wide configuration
 ------
@@ -33,18 +59,6 @@ Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[comment]: <> (This is a comment, it will not be included. More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown . The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/ might also be helpful.)

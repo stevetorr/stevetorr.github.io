@@ -82,11 +82,14 @@ analytics:
 author:
   name             : "Steven B. Torrisi"
   avatar           : "itsame.jpeg"
-  bio              : "Currently a Research Scientist at Toyota Research Institute."
+  bio              : "Currently a Senior Research Scientist at Toyota Research Institute."
   location         : "Bay Area, CA"
+  education        :
+      - B.S. Physics, B.A. Mathematics, University of Rochester 2016
+      - Ph.D. Physics, Harvard University 2021
   employer         : #"Toyota Research Institute"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

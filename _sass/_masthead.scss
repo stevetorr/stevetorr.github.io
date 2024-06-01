@@ -15,7 +15,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif-futura;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -38,8 +38,15 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+
+
+    .masthead__menu-item:first-child a {
+      color: $stevelowlight;
+
+      &:hover {
+        color: $goodplacegreen;
+   }
   }
-}
 
 .masthead__menu-item {
   display: block;
@@ -50,4 +57,6 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+}
 }
