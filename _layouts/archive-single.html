@@ -1,0 +1,14 @@
+<article class="archive-entry">
+  <header>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p><strong>{{ post.venue }}</strong>, {{ post.date | date: "%Y" }}</p>
+  </header>
+  <div class="entry-content">
+    {{ post.excerpt }}
+  </div>
+  <footer>
+    <p>{{ post.citation }}</p>
+    <p><a href="{{ post.paperurl }}" target="_blank">Access paper here</a></p>
+  </footer>
+</article>
+
