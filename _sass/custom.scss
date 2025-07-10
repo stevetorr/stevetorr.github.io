@@ -1,0 +1,39 @@
+.card-box {
+  background-color: #25355b;
+  border-left: 4px solid #4eace9;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  color: #f0f0f0;
+
+  // Wrapping and layout fixes
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
+  display: block;
+  max-width: 100%;                // ensures no weird overflow in sidebar
+}
+
+
+.card-box h3 {
+  margin-top: 0;
+  font-size: 1em;
+  color: #ffffff; /* bright title */
+}
+
+.card-box ul {
+  list-style-type: disc;
+  padding-left: 1.2em;
+  margin: 0.5em 0 0 0;
+}
+
+.card-box li {
+  margin-bottom: 0.4em;
+  color: #c8d2e0;
+
+  overflow-wrap: anywhere;     // ✅ Force wrapping even mid-word
+  word-break: break-word;
+  white-space: normal;
+}
+
