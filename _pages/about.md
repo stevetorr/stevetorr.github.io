@@ -19,8 +19,7 @@ I am passionate about serving the scientific and academic communities in my spar
 Prior to that, I was a DOE Computational Science Graduate Fellow, and a Barry Goldwater scholar. I obtained my Ph.D. in Physics with a secondary in computational science & engineering from Harvard University, where I worked under Prof. Boris Kozinsky, and a B.S. in Physics and a B.A. in Mathematics from the University of Rochester.
 
 
-Last Updated: May 26, 2025
-
+Last Updated: July 10, 2025
 
 📢 Recent & On The Horizon
 ------
