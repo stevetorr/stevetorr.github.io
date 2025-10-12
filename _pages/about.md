@@ -13,23 +13,26 @@ My recent work has spanned computational materials discovery, machine learning a
 
 I currently work as a senior research scientist at Toyota Research Institute. You can view the papers that I've written on my [Google Scholar.](https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ)
 
-I am passionate about serving the scientific and academic communities in my spare time. I currently serve on the [external advisory board of the UC Merced Department of Mechanical Engineering](https://me.ucmerced.edu/advisory-board).
+I am passionate about serving the scientific and academic communities in my spare time. I currently serve on the [external advisory board of the UC Merced Department of Mechanical Engineering](https://me.ucmerced.edu/advisory-board) and on the University of Rochester's Department of Mechanical Engineering.
 
 
 Prior to that, I was a DOE Computational Science Graduate Fellow, and a Barry Goldwater scholar. I obtained my Ph.D. in Physics with a secondary in computational science & engineering from Harvard University, where I worked under Prof. Boris Kozinsky, and a B.S. in Physics and a B.A. in Mathematics from the University of Rochester.
 
 
-Last Updated: July 10, 2025
+Last Updated: October 12, 2025
 
 📢 Recent & On The Horizon
 ------
+- Fall 25
+  - I'm thrilled to announce our work with Chris Wolverton's group at Northwestern University and Toyota Motor Corporation (Toyota Japan) is now live in [Advanced Energy Materials](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202503660)!
+  - Work done with intern Clement Wong is now live on proceedings of the [AutomotiveUI Conference!](https://dl.acm.org/doi/full/10.1145/3744335.3758968)
+  - I will be attending NeurIPS in December 2025 in San Diego! Say hi if you will be coming through!
+
 - Summer 25
   - It was my honor to serve on the dissertation committee of Dr. Tzu-chen Liu (a collaborator and student of Prof. Chris Wolverton) at Northwestern University.
-  - I will be speaking at the [NIST Artificial Intelligence for Materials Science workshop](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop&ved=2ahUKEwjm44mJ6MGNAxVal-4BHa1iL4MQFnoECCEQAQ&usg=AOvVaw1mMMTMWP6UPOdiyBJsn8vV) in July!
-  -  I will be speaking at the Telluride Science Research Center's conference on Machine Learning for Chemistry and Materials Science for the third time this September!
-
-- My work with Tzu-chen Liu, Prof. Chris Wolverton, and other students in his group on the influence of the U parameter on the stability of Mo-containing oxides has been published in [Physical Review Materials!](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.055402)
-- My work with Dr. Tina Na Narong, Zoe Zachko, and Prof. Simon Billinge on interpretable multimodal analysis of pair distribution functions and X-ray absorprion spectroscopy has been published in [NPJ Computational Materials!](https://www.nature.com/articles/s41524-025-01589-3)
+  - I spoke at the [NIST Artificial Intelligence for Materials Science workshop](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop&ved=2ahUKEwjm44mJ6MGNAxVal-4BHa1iL4MQFnoECCEQAQ&usg=AOvVaw1mMMTMWP6UPOdiyBJsn8vV) in July!
+  - My work with Tzu-chen Liu, Prof. Chris Wolverton, and other students in his group on the influence of the U parameter on the stability of Mo-containing oxides has been published in [Physical Review Materials!](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.055402)
+  - My work with Dr. Tina Na Narong, Zoe Zachko, and Prof. Simon Billinge on interpretable multimodal analysis of pair distribution functions and X-ray absorprion spectroscopy has been published in [NPJ Computational Materials!](https://www.nature.com/articles/s41524-025-01589-3)
 
 
 
@@ -71,6 +74,8 @@ I am interested ins ML frameworks to interpret spectroscopic data — particular
 I work on data-centric models for battery science — combining simulation, experiment, and statistical modeling to study device-level behavior and materials discovery for next-generation energy storage.
 
 **Selected Works:**
+- 📄 [Tailored Ordering Enables High Capacity Cathode Materials](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202503660)
+  *With Northwestern University and Toyota Motor Corporation, Advanced Energy Materials*
 - 📄 [Interpretable Analysis of Battery Formation](https://www.cell.com/joule/abstract/S2542-4351(24)00353-2?__cf_chl_tk=3ipJBoh4IH4KGjMpuaKZ4qfBStVw6d36Kg52N6mmZGI-1748287168-1.0.1.1-kovUBpZ2r_gvoiRUcJJtKcz31DXp14ItE3qcihE7MUg)  
   *With the D3BATT Collaboration (Sun, Bazant, Chueh, et al.), Joule*
 - 📄 [History-Agnostic Battery Degradation Inference](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23036782)  

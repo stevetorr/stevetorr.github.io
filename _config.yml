@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/stevenbtorrisi/"
   orcid            : "https://orcid.org/0000-0002-4283-8077"
   pinterest        :
   soundcloud       :
@@ -118,10 +118,10 @@ author:
   youtube          :
   wikipedia        :
   research_summary:
-    - "29 scientific publications (8 as lead/co-lead/corresponding/last author)"
-    - "1,400+ citations (h-index: 15)"
+    - "30 scientific publications (8 as lead/co-lead/corresponding/last author)"
+    - "1,400+ citations (h-index: 16)"
     - "17 invited talks"
-    - "6 patents pending"
+    - "7 patents pending"
 # Reading Files
 
 include:
