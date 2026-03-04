@@ -19,10 +19,14 @@ I am passionate about serving the scientific and academic communities in my spar
 Prior to that, I was a DOE Computational Science Graduate Fellow, and a Barry Goldwater scholar. I obtained my Ph.D. in Physics with a secondary in computational science & engineering from Harvard University, where I worked under Prof. Boris Kozinsky, and a B.S. in Physics and a B.A. in Mathematics from the University of Rochester.
 
 
-Last Updated: October 12, 2025
+Last Updated: March 4, 2026
 
 📢 Recent & On The Horizon
 ------
+- Spring 26
+  - New preprint out on ChemRxiv! We present a principled framework for analyzing XRD data with uncertainty. Check it out [here](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000068/v1)!
+  - Excited to share that a new paper on short-range order and Li clustering in disordered rocksalt cathodes, in collaboration with Northwestern University, is appearing in [Small](https://arxiv.org/abs/2508.08112)!
+
 - Fall 25
   - I'm thrilled to announce our work with Chris Wolverton's group at Northwestern University and Toyota Motor Corporation (Toyota Japan) is now live in [Advanced Energy Materials](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202503660)!
   - Work done with intern Clement Wong is now live on proceedings of the [AutomotiveUI Conference!](https://dl.acm.org/doi/full/10.1145/3744335.3758968)
