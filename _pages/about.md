@@ -13,7 +13,7 @@ My recent work has spanned computational materials discovery, machine learning a
 
 I currently work as a senior research scientist at Toyota Research Institute. You can view the papers that I've written on my [Google Scholar.](https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ)
 
-I am passionate about serving the scientific and academic communities in my spare time. I currently serve on the [external advisory board of the UC Merced Department of Mechanical Engineering](https://me.ucmerced.edu/advisory-board) and on the University of Rochester's Department of Mechanical Engineering.
+I am passionate about serving the scientific and academic communities in my spare time. I currently serve on the [external advisory board of the UC Merced Department of Mechanical Engineering](https://me.ucmerced.edu/advisory-board) and on the Program Advisory Board of the University of Rochester's Department of Mechanical Engineering.
 
 
 Prior to that, I was a DOE Computational Science Graduate Fellow, and a Barry Goldwater scholar. I obtained my Ph.D. in Physics with a secondary in computational science & engineering from Harvard University, where I worked under Prof. Boris Kozinsky, and a B.S. in Physics and a B.A. in Mathematics from the University of Rochester.
@@ -24,6 +24,9 @@ Last Updated: March 4, 2026
 📢 Recent & On The Horizon
 ------
 - Spring 26
+  - I'll be presenting a poster on recent agentic workflow development at MRS in Honolulu!
+  - I'll be giving an invited talk at the [ML for Condensed Matter (MLCM-25)](https://mlcm-25.github.io/) workshop!
+  - I'll be presenting at [CIMTEC](https://www.cimtec-congress.org/) in June in Italy!
   - New preprint out on ChemRxiv! We present a principled framework for analyzing XRD data with uncertainty. Check it out [here](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000068/v1)!
   - Excited to share that a new paper on short-range order and Li clustering in disordered rocksalt cathodes, in collaboration with Northwestern University, is appearing in [Small](https://arxiv.org/abs/2508.08112)!
 
