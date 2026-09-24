@@ -1,2 +1,6 @@
 _site/
 NOTES_FOR_STEVEN.md
+vendor/
+.bundle/
+.DS_Store
+.ipynb_checkpoints/

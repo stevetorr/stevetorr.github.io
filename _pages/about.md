@@ -11,7 +11,7 @@ redirect_from:
 I am a researcher in computational materials science interested in the intersection of machine learning with traditional simulation techniques.
 My recent work has spanned computational materials discovery, machine learning applied to first principles simulation, and battery informatics.
 
-I currently work as a senior research scientist at Toyota Research Institute. You can view the papers that I've written on my [Google Scholar.](https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ)
+As of August 2026, I work at NVIDIA as a Senior Strategic Alliance Manager. Previously, I was a Senior Research Scientist at Toyota Research Institute. You can view the papers that I've written on my [Google Scholar.](https://scholar.google.com/citations?hl=en&user=a8UA3n8AAAAJ)
 
 I am passionate about serving the scientific and academic communities in my spare time. I currently serve on the [external advisory board of the UC Merced Department of Mechanical Engineering](https://me.ucmerced.edu/advisory-board) and on the Program Advisory Board of the University of Rochester's Department of Mechanical Engineering.
 
@@ -19,21 +19,28 @@ I am passionate about serving the scientific and academic communities in my spar
 Prior to that, I was a DOE Computational Science Graduate Fellow, and a Barry Goldwater scholar. I obtained my Ph.D. in Physics with a secondary in computational science & engineering from Harvard University, where I worked under Prof. Boris Kozinsky, and a B.S. in Physics and a B.A. in Mathematics from the University of Rochester.
 
 
-Last Updated: March 4, 2026
+Last Updated: September 24, 2026
 
 📢 Recent & On The Horizon
 ------
+- Fall 26
+  - Joined NVIDIA as a Senior Strategic Alliance Manager on August 10th!
+  - September 22: I represented NVIDIA at the retreat of the NSF Molecule Maker Lab Institute (MMLI)!
+  - September 30: I'll be representing NVIDIA at the Telluride Science Research Center (TSRC) in Telluride, CO!
+  - November 8: I'll be at the AIChE Annual Meeting in Minnesota!
+  - December 4: I'll be at the MRS Fall Meeting in Boston!
+
 - Spring 26
-  - I'll be presenting a poster on recent agentic workflow development at MRS in Honolulu!
-  - I'll be giving an invited talk at the [ML for Condensed Matter (MLCM-25)](https://mlcm-25.github.io/) workshop!
-  - I'll be presenting at [CIMTEC](https://www.cimtec-congress.org/) in June in Italy!
+  - I presented a poster on recent agentic workflow development at MRS in Honolulu!
+  - I gave an invited talk at the [Machine Learning in Chemistry and Materials Science (MLCM-25)](https://mlcm-25.github.io/) workshop!
+  - I presented at [CIMTEC](https://www.cimtec-congress.org/) in June in Italy!
   - New preprint out on ChemRxiv! We present a principled framework for analyzing XRD data with uncertainty. Check it out [here](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000068/v1)!
   - Excited to share that a new paper on short-range order and Li clustering in disordered rocksalt cathodes, in collaboration with Northwestern University, is appearing in [Small](https://arxiv.org/abs/2508.08112)!
 
 - Fall 25
   - I'm thrilled to announce our work with Chris Wolverton's group at Northwestern University and Toyota Motor Corporation (Toyota Japan) is now live in [Advanced Energy Materials](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202503660)!
   - Work done with intern Clement Wong is now live on proceedings of the [AutomotiveUI Conference!](https://dl.acm.org/doi/full/10.1145/3744335.3758968)
-  - I will be attending NeurIPS in December 2025 in San Diego! Say hi if you will be coming through!
+  - I attended NeurIPS in December 2025 in San Diego!
 
 - Summer 25
   - It was my honor to serve on the dissertation committee of Dr. Tzu-chen Liu (a collaborator and student of Prof. Chris Wolverton) at Northwestern University.
@@ -46,11 +53,11 @@ Last Updated: March 4, 2026
 
 ## 🧪 Research Directions {#research}
 
-My work sits at the intersection of machine learning, computational materials science, and data-driven discovery. I focus on building interpretable and scalable models that interface with first-principles simulations, spectroscopic experiments, and electrochemical devices.
+My research interests are accelerated atomistic simulation, agentic science, and materials informatics. I focus on building interpretable and scalable methods that connect first-principles simulation, experimental data, and AI-driven discovery.
 
 ---
 
-### 1. Machine Learning from First-Principles Simulations
+### 1. Accelerated Atomistic Simulation
 
 I am interested in ML models — including surrogate models, interatomic potentials, and property predictors — that accelerate traditional quantum simulations and uncover patterns in atomistic simulation.
 
@@ -64,29 +71,31 @@ I am interested in ML models — including surrogate models, interatomic potenti
 
 ---
 
-### 2. Interpretable Spectroscopy
+### 2. Agentic Science
 
-I am interested ins ML frameworks to interpret spectroscopic data — particularly X-ray absorption and PDF — in a way that allows practitioners to build chemical intuition and understand physical structure. I am particularly interested in interpretable methods that link spectral variation to local atomic environments.
+I am interested in AI agents and autonomous workflows that plan, execute, and interpret scientific campaigns — closing the loop between hypothesis generation, simulation, and experiment.
+
+**Selected Works:**
+- 📄 [Toward Autonomous Materials Research: Recent Progress and Future Challenges](https://doi.org/10.1063/5.0076324)  
+  *Montoya et al., Applied Physics Reviews*
+- 📄 [Agents for Sequential Learning Using Multiple-Fidelity Data](https://scholar.google.com/scholar?q=Agents+for+sequential+learning+using+multiple+fidelity+data)  
+  *Palizhati, Torrisi, et al., Scientific Reports*
+
+---
+
+### 3. Materials Informatics
+
+I work on data-centric models that turn spectroscopic, simulation, and device data into physical insight — from interpretable analysis of X-ray absorption and PDF spectra to statistical modeling of battery materials and devices.
 
 **Selected Works:**
 - 📄 [Multimodal Analysis of PDF and X-ray Absorption Spectra](https://www.nature.com/articles/s41524-025-01589-3)  
   *Na Narong, Zachko, Torrisi & Billinge, npj Computational Materials (Corresponding Author with Simon Billinge)*
+- 📄 [Tailored Ordering Enables High Capacity Cathode Materials](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202503660)  
+  *With Northwestern University and Toyota Motor Corporation, Advanced Energy Materials*
+- 📄 [Interpretable Analysis of Battery Formation](https://www.cell.com/joule/abstract/S2542-4351(24)00353-2)  
+  *With the D3BATT Collaboration (Sun, Bazant, Chueh, et al.), Joule*
 - 📄 [Random Forest Models for Interpretable XANES Spectra](https://www.nature.com/articles/s41524-020-00376-6)  
   *Torrisi et al., npj Computational Materials*
-
----
-
-### 3. Electrochemical Materials and Device Informatics
-
-I work on data-centric models for battery science — combining simulation, experiment, and statistical modeling to study device-level behavior and materials discovery for next-generation energy storage.
-
-**Selected Works:**
-- 📄 [Tailored Ordering Enables High Capacity Cathode Materials](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202503660)
-  *With Northwestern University and Toyota Motor Corporation, Advanced Energy Materials*
-- 📄 [Interpretable Analysis of Battery Formation](https://www.cell.com/joule/abstract/S2542-4351(24)00353-2?__cf_chl_tk=3ipJBoh4IH4KGjMpuaKZ4qfBStVw6d36Kg52N6mmZGI-1748287168-1.0.1.1-kovUBpZ2r_gvoiRUcJJtKcz31DXp14ItE3qcihE7MUg)  
-  *With the D3BATT Collaboration (Sun, Bazant, Chueh, et al.), Joule*
-- 📄 [History-Agnostic Battery Degradation Inference](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23036782)  
-  *Ansari, Torrisi, Trewartha, Sun, Journal of Energy Storage*
 
 
 
