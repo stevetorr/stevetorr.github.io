@@ -28,7 +28,6 @@ Last Updated: September 24, 2026
   - September 22: I represented NVIDIA at the retreat of the NSF Molecule Maker Lab Institute (MMLI)!
   - September 30: I'll be representing NVIDIA at the Telluride Science Research Center (TSRC) in Telluride, CO!
   - November 8: I'll be at the AIChE Annual Meeting in Minnesota!
-  - Our work presenting a principled, LLM-guided framework for phase identification from XRD data is now published in [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76450)!
   - December 4: I'll be at the MRS Fall Meeting in Boston!
 
 - Spring 26
