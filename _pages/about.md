@@ -28,13 +28,14 @@ Last Updated: September 24, 2026
   - September 22: I represented NVIDIA at the retreat of the NSF Molecule Maker Lab Institute (MMLI)!
   - September 30: I'll be representing NVIDIA at the Telluride Science Research Center (TSRC) in Telluride, CO!
   - November 8: I'll be at the AIChE Annual Meeting in Minnesota!
+  - Our work presenting a principled, LLM-guided framework for phase identification from XRD data is now published in [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76450)!
   - December 4: I'll be at the MRS Fall Meeting in Boston!
 
 - Spring 26
   - I presented a poster on recent agentic workflow development at MRS in Honolulu!
   - I gave an invited talk at the [Machine Learning in Chemistry and Materials Science (MLCM-25)](https://mlcm-25.github.io/) workshop!
   - I presented at [CIMTEC](https://www.cimtec-congress.org/) in June in Italy!
-  - New preprint out on ChemRxiv! We present a principled framework for analyzing XRD data with uncertainty. Check it out [here](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000068/v1)!
+  - Our work presenting a principled, LLM-guided framework for phase identification from XRD data went up on ChemRxiv, and is now published in [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76450)!
   - Excited to share that a new paper on short-range order and Li clustering in disordered rocksalt cathodes, in collaboration with Northwestern University, is appearing in [Small](https://arxiv.org/abs/2508.08112)!
 
 - Fall 25
